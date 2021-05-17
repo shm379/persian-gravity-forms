@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'GFPersian';
+    src: url('../fonts/Vazir.eot');
+    src: url('../fonts/Vazir.woff') format('woff'), url('../fonts/Vazir.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

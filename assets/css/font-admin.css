@@ -1,0 +1,27 @@
+*, body, html {
+    font-family: tahoma, serif;
+}
+
+input, li, ul, select, textarea, #gf_merge_tag_list a {
+    font-family: tahoma, serif !important;
+}
+
+#toplevel_page_gf_edit_forms a,
+#toplevel_page_gf_edit_forms .wp-menu-name,
+.newform_notice, .gatewayset p,
+.gatewayset td, h1, h2, h3, h4, h5, h6, h2 span, h3 span, label,
+#no-fields span, .group-header, #gf_form_toolbar a, .gform_tabs a, td a, td a strong, td strong a, th,
+.add-new-h2, .button, .stat b, .gresults-chart-wrapper *, div.gresults-results-filter-section-label,
+div.gresults-results-field-label, #gresults-results td, #gresults-results th, #gresults-results tr, h2 a,
+.field_hover div.gf-pagebreak-container div.gf-pagebreak-text-main span,
+.field_selected div.gf-pagebreak-container div.gf-pagebreak-text-main span,
+.gf-pagebreak-text-after,
+.gf-pagebreak-text-before, div.gf-pagebreak-text-main span,
+.field_type li input, .add-buttons-title,
+.field_type li input, .add-buttons-title,
+.entry-detail-view td, .entry-detail-view td *,
+.gf_dashboard_view td i,
+.gforms_settings_wrap td, .gforms_settings_wrap th, .gforms_settings_wrap th strong, .gforms_settings_wrap td strong,
+#entry_list_form tbody *:not(.fa){
+    font-family: GFPersian, serif !important;
+}

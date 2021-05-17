@@ -1,0 +1,127 @@
+#gf_merge_tag_list a {
+    font-family: tahoma, serif !important;
+}
+
+#toplevel_page_gf_edit_forms a, #toplevel_page_gf_edit_forms .wp-menu-name, .newform_notice, .gatewayset p, .gatewayset td, h1, h2, h3, h4, h5, h6, h2 span, h3 span, label, #no-fields span, .group-header, #gf_form_toolbar a, .gform_tabs a, td a, td a strong, td strong a, th, .add-new-h2, .button, .stat b, .gresults-chart-wrapper *, div.gresults-results-filter-section-label, div.gresults-results-field-label, #gresults-results td, #gresults-results th, #gresults-results tr, h2 a {
+    font-weight: normal !important;
+}
+
+h4, h5, h6 {
+    font-size: 16px !important;
+}
+
+.group-header {
+    font-size: 16px !important;
+    font-weight: normal !important;
+}
+
+.row-title, #toplevel_page_gf_edit_forms .wp-menu-name, .newform_notice {
+    font-size: 16px !important;
+}
+
+a.gf_toolbar_active, .gform_tabs a, label {
+    font-size: 13px !important;
+}
+
+div.gf_entry_detail_pagination {
+    top: -10px !important;
+}
+
+#TB_ajaxContent, #TB_title {
+    text-align: right !important;
+}
+
+#gresults-results {
+    margin-right: 0px !important;
+    margin-left: 300px !important;
+}
+
+div#gf_nofield_1_instructions, div#gf_nofield_2_instructions, div#gf_nofield_3_instructions, div#gf_nofield_4_instructions, div#gf_nofield_5_instructions {
+    background-image: url("../images/Gravity_Forms_fa.png") !important;
+}
+
+.gf_nofield_3_instructions_copy_bottom {
+    margin-left: -163px !important;
+}
+
+.gf_nofield_4_instructions_copy_bottom {
+    margin-top: 13px !important;
+    margin-left: -220px !important;
+}
+
+#gf_user_form .left_header, .metaname, .metavalue {
+    float: right !important;
+}
+
+.gf_dashboard_form_title_header {
+    text-align: right !important;
+}
+
+.gf_dashboard_view td i {
+    font-style: normal !important;
+}
+
+.gfur-form-select {
+    margin-right: 415px !important;
+}
+
+optgroup {
+    font-style: normal !important;
+}
+
+.choice_with_value_and_price label {
+    margin: 0 60px 0 0 !important;
+    padding-left: 26px !important;
+}
+
+.choice_with_price .gfield_choice_header_label, .choice_with_value .gfield_choice_header_label {
+    margin: 0 69px 0 99px !important;
+}
+
+.ui-tabs .ui-tabs-nav li {
+    margin-left: 0.2em !important;
+    margin-right: 0 !important;
+    float: right !important;
+}
+
+div#gf_nofield_1_instructions span, div#gf_nofield_2_instructions span, div#gf_nofield_3_instructions span, div#gf_nofield_4_instructions span, div#gf_nofield_5_instructions span {
+    line-height: 2.5rem !important;
+}
+
+.calculation_setting .gf_calculation_buttons input, html[dir="rtl"] body.wp-admin .calculation_setting .gf_calculation_buttons input,
+.calculation_setting textarea, html[dir="rtl"] body.wp-admin .calculation_setting textarea,
+.css_class_setting input, html[dir="rtl"] body.wp-admin .css_class_setting input,
+.prepopulate_field_setting input, html[dir="rtl"] body.wp-admin .prepopulate_field_setting input,
+#form_page_querystring {
+    direction: ltr !important;
+    text-align: left !important;
+}
+
+.mt-gform_notification_message, .mt-form_confirmation_message {
+    margin-right: -30px !important;
+}
+
+.entry-detail-view td ul {
+    padding-right: 15px;
+}
+
+#entry_filters {
+    float: right;
+}
+
+#entry_search_button {
+    float: left;
+}
+
+#entry_list_form .subsubsub {
+    float: right !important;
+    clear: both;
+}
+
+#edit_payment_status_details * {
+    font-size: 12px !important;
+}
+
+#notes .actions input.button {
+    width: 100px !important;
+}

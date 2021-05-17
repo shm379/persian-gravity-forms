@@ -1,0 +1,13 @@
+*, html, body, table, thead, tr, th, td, div {
+    direction: rtl !important;
+    text-align: right !important;
+    font-family: Tahoma, serif;
+}
+ul {
+    padding-right: 10px !important;
+}
+
+div.note-avatar {
+    margin-left: 15px;
+    float: right;
+}

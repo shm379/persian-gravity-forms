@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gravity Forms Coupons Add-On v2.0\n"
+"PO-Revision-Date: 2018-05-26 15:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-26 15:24+0000\n"
+"Last-Translator: hannanstd <hannanstd@gmail.com>\n"
+"Language-Team: فارسی\n"
+"Language: fa_IR"
+
+#: class-gf-field-coupon.php:18
+msgid "Coupon"
+msgstr "تخفیف"
+
+#: class-gf-field-coupon.php:89
+msgid "Coupon fields are not editable"
+msgstr "فیلدهای تخفیف قابل ویرایش نیستند."
+
+#: class-gf-field-coupon.php:100
+msgid "Apply"
+msgstr "اجرا"
+
+#: class-gf-field-coupon.php:101
+msgid "please wait"
+msgstr "لطفاً منتظر بمانید"
+
+#: class-gf-field-coupon.php:133
+#, php-format
+msgid "Coupon code: %s is invalid."
+msgstr "کد تخفیف: %s معتبر نیست!"
+
+#: class-gf-field-coupon.php:163
+msgid "You must add a Product field to the form"
+msgstr "شما باید یک فیلد قیمت گذاری به فرم خود اضافه کنید."
+
+#: class-gf-field-coupon.php:166
+msgid "You must add a Total field to the form"
+msgstr "شما باید یک فیلد مجموع به فرم خود اضافه کنید."
+
+#: class-gf-field-coupon.php:169
+msgid "Only one Coupon field can be added to the form"
+msgstr "فقط یک فیلد تخفیف میتواند به فرم اضافه شود"
+
+#: class-gf-coupons.php:148
+msgid "Coupon Code:"
+msgstr "کد تخفیف:"
+
+#: class-gf-coupons.php:251
+msgid "You must enter a value for coupon code."
+msgstr "باید مقداری برای کد تخفیف وارد کنید."
+
+#: class-gf-coupons.php:265 class-gf-coupons.php:1042 class-gf-coupons.php:1151
+msgid "Invalid coupon."
+msgstr "تخفیف نامعتبر"
+
+#: class-gf-coupons.php:327
+#, php-format
+msgid ""
+"The %s has been successfully uninstalled. It can be re-activated from the "
+"%splugins page%s."
+msgstr ""
+"افزودنی %s با موفقیت حذف شد. برای فعالسازی مجدد از طریق %sصفحه افزونه ها%s "
+"اقدام نمایید."
+
+#: class-gf-coupons.php:455
+msgid "Edit this feed"
+msgstr "ویرایش فید"
+
+#: class-gf-coupons.php:455
+msgid "Edit"
+msgstr "ویرایش"
+
+#: class-gf-coupons.php:473
+msgid "Reset Usage Count"
+msgstr "ریست کردن تعداد استفاده شده ها"
+
+#: class-gf-coupons.php:508
+msgid "Title"
+msgstr "عنوان"
+
+#: class-gf-coupons.php:509
+msgid "Form"
+msgstr "فرم"
+
+#: class-gf-coupons.php:510
+msgid "Amount"
+msgstr "مبلغ"
+
+#: class-gf-coupons.php:511 class-gf-coupons.php:699 class-gf-coupons.php:701
+msgid "Usage Limit"
+msgstr "محدودیت استفاده"
+
+#: class-gf-coupons.php:512 class-gf-coupons.php:717
+msgid "Usage Count"
+msgstr "دفعات استفاده"
+
+#: class-gf-coupons.php:513
+msgid "Expires"
+msgstr "انقضاء"
+
+#: class-gf-coupons.php:514 class-gf-coupons.php:705 class-gf-coupons.php:707
+#: class-gf-coupons.php:710
+msgid "Is Stackable"
+msgstr "همزمان"
+
+#: class-gf-coupons.php:549 class-gf-coupons.php:736
+msgid "Any Form"
+msgstr "همه فرم ها"
+
+#: class-gf-coupons.php:554
+msgid "Invalid Form"
+msgstr "فرم نامعتبر"
+
+#: class-gf-coupons.php:635
+msgid "Applies to Which Form?"
+msgstr "بر روی کدام فرم اعمال شود ؟"
+
+#: class-gf-coupons.php:640 class-gf-coupons.php:644
+msgid "Gravity Form"
+msgstr "فرم مورد نظر"
+
+#: class-gf-coupons.php:644
+msgid "Select the Gravity Form you would like to integrate with Coupons."
+msgstr "فرمی که می خواهید با کد تخفیف یک پارچه شود را انتخاب کنید. "
+
+#: class-gf-coupons.php:649
+msgid "Coupon Basics"
+msgstr "اطلاعات تخفیف"
+
+#: class-gf-coupons.php:655 class-gf-coupons.php:658
+msgid "Coupon Name"
+msgstr "نام تخفیف"
+
+#: class-gf-coupons.php:658
+msgid "Enter coupon name."
+msgstr "نام تخفیف را وارد کنید."
+
+#: class-gf-coupons.php:662 class-gf-coupons.php:666
+msgid "Coupon Code"
+msgstr "کد تخفیف"
+
+#: class-gf-coupons.php:666
+msgid ""
+"Enter the value users should enter to apply this coupon to the form total."
+msgstr ""
+"مقداری را که کاربران باید برای اعمال این کد تخفیف وارد کنند را وارد کنید."
+
+#: class-gf-coupons.php:670 class-gf-coupons.php:674
+msgid "Coupon Amount"
+msgstr "مبلغ تخفیف"
+
+#: class-gf-coupons.php:674
+msgid "Enter the amount to be deducted from the form total."
+msgstr "مبلغی که از مجموع فرم کسر می شود را وارد کنید."
+
+#: class-gf-coupons.php:679
+msgid "Coupon Options"
+msgstr "تنظیمات تخفیف"
+
+#: class-gf-coupons.php:685 class-gf-coupons.php:687
+msgid "Start Date"
+msgstr "تاریخ شروع"
+
+#: class-gf-coupons.php:687
+msgid "Enter the date when the coupon should start."
+msgstr "تاریخی که تخفیف شروع می شود را وارد کنید."
+
+#: class-gf-coupons.php:692 class-gf-coupons.php:694
+msgid "End Date"
+msgstr "تاریخ پایان"
+
+#: class-gf-coupons.php:694
+msgid "Enter the date when the coupon should expire."
+msgstr "تاریخی که تخفیف منقضی می شود را وارد کنید."
+
+#: class-gf-coupons.php:701
+msgid "Enter the number of times coupon code can be used."
+msgstr "تعداد دفعاتی که تخفیف می تواند استفاده شود را وارد کنید."
+
+#: class-gf-coupons.php:707
+msgid ""
+"When the \"Is Stackable\" option is selected, this coupon code will be "
+"allowed to be used in conjunction with another coupon code."
+msgstr ""
+"وقتی که حالت همزمان انتخاب شود، این کد تخفیف می تواند همراه با کدهای تخفیف "
+"دیگر استفاده شود."
+
+#: class-gf-coupons.php:735
+msgid "Select a Form"
+msgstr "یک فرم انتخاب کنید."
+
+#: class-gf-coupons.php:825
+msgid "Flat"
+msgstr "مقدار ثابت"
+
+#: class-gf-coupons.php:830
+msgid "Percentage(%)"
+msgstr "درصد(%)"
+
+#: class-gf-coupons.php:863
+msgid "This field is required."
+msgstr "این فیلد اجباری است."
+
+#: class-gf-coupons.php:888
+msgid ""
+"Please enter a valid Coupon Code. The Coupon Code can only contain "
+"alphanumeric characters."
+msgstr ""
+"لطفا یک کد تخفیف معتبر وارد کنید. این کد تخفیف فقط میتواند شامل کاراکترهای "
+"حروفی و عددی لاتین باشد."
+
+#: class-gf-coupons.php:900
+msgid ""
+"The Coupon Code entered is already in use. Please enter a unique Coupon Code "
+"and try again."
+msgstr ""
+"کد تخفیفی که وارد کردید قبلاً استفاده شده است. لطفاً یک کد تخفیف منحصر به "
+"فرد وارد کنید و دوباره امتحان کنید."
+
+#: class-gf-coupons.php:1053
+msgid "This coupon can't be applied more than once."
+msgstr "این تخفیف نمی تواند بیشتر از یک بار استفاده شود."
+
+#: class-gf-coupons.php:1064
+msgid ""
+"This coupon can't be used in conjunction with other coupons you have already "
+"entered."
+msgstr "این تخفیف نمیتواند همراه سایر تخفیف هایی که وارد کردید استفاده شود."
+
+#: class-gf-coupons.php:1139
+msgid "This coupon is currently inactive."
+msgstr "این تخفیف در حال حاضر غیرفعال است."
+
+#: class-gf-coupons.php:1158
+msgid "This coupon has expired."
+msgstr "این تخفیف منقضی شده است."
+
+#: class-gf-coupons.php:1170
+msgid "This coupon has reached its usage limit."
+msgstr "تعداد دفعات استفاده این تخفیف تمام شده است."
+
+msgid "Gravity Forms Coupons Add-On"
+msgstr "افزودنی تخفیف Gravity Forms"
+
+msgid ""
+"Enables Gravity Forms administrators to create coupon codes that can be "
+"applied to products, services or subscriptions when used in conjunction with "
+"a payment add-on such as PayPal and Authorize.net"
+msgstr ""
+"فعالسازی مدیریت Gravity Forms سبب ایجاد کد هایی تخفیفی میشود که در هنگام "
+"اتصال فرم به درگاه های پرداخت قابل استفاده هستند ."
+
+msgid "http://www.gravityforms.com"
+msgstr "http://www.gravityforms.ir"
+
+#. Author of the plugin/theme
+msgid "rocketgenius"
+msgstr "rocketgenius"
+
+#. Author URI of the plugin/theme
+msgid "http://www.rocketgenius.com"
+msgstr "http://www.rocketgenius.com"

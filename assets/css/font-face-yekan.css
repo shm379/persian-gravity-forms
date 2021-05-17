@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'GFPersian';
+    src: url('../fonts/BYekan.eot');
+    src: url('../fonts/BYekan.woff') format('woff'), url('../fonts/BYekan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

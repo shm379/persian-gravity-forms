@@ -1,0 +1,770 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gravity Forms User Registration Add-On v2.1\n"
+"PO-Revision-Date: 2018-05-26 15:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-26 14:25+0000\n"
+"Last-Translator: hannanstd <hannanstd@gmail.com>\n"
+"Language-Team: فارسی\n"
+"Language: fa_IR"
+
+#: class-gf-user-registration.php:81
+msgid "Register user only when a payment is received."
+msgstr "ثبت نام کاربر فقط وقتی که پرداخت انجام شد."
+
+#: class-gf-user-registration.php:81
+msgid "Register user and create site only when a payment is received."
+msgstr "ثبت نام کاربر و ایجاد سایت فقط وقتی که پرداخت انجام شد."
+
+#: class-gf-user-registration.php:428
+msgid "Passwords may not contain the character \"\\\""
+msgstr "رمز عبور نباید شامل این کاراکتر ها باشد. \"\\\" "
+
+#: class-gf-user-registration.php:520
+msgid "The email address can not be empty"
+msgstr "آدرس ایمیل نمی تواند خالی باشد."
+
+#: class-gf-user-registration.php:531 class-gf-user-registration.php:533
+msgid "This email address is already registered"
+msgstr "این ایمیل قبلاً ثبت شده است."
+
+#: class-gf-user-registration.php:545
+msgid "The username can not be empty"
+msgstr "نام کاربری نمی تواند خالی باشد."
+
+#: class-gf-user-registration.php:551
+msgid ""
+"This username is invalid because it uses illegal characters. Please enter a "
+"valid username."
+msgstr ""
+"این نام کاربری نامعتبر است زیرا از کاراکترهای غیرمجاز در آن استفاده شده است. "
+"نام کاربری معتبری وارد کنید."
+
+#: class-gf-user-registration.php:557
+msgid ""
+"The username can only contain alphanumeric characters (A-Z, 0-9), "
+"underscores and dashes"
+msgstr "نام کاربری فقط باید شامل حروف، اعداد و علایم - و _  باشد"
+
+#: class-gf-user-registration.php:563
+msgid "This username is already registered"
+msgstr "این نام کاربری قبلاً ثبت شده است."
+
+#: class-gf-user-registration.php:907
+msgid "Oops! You need to be logged in to use this form."
+msgstr "شما برای استفاده از این فرم نیاز به وارد شدن دارید."
+
+#: class-gf-user-registration.php:1550
+msgid "Select BuddyPress Field"
+msgstr "یک فیلد بادی پرس انتخاب کنید"
+
+#: class-gf-user-registration.php:1723 includes/class-gf-login-widget.php:201
+msgid "Register"
+msgstr "ثبت نام"
+
+#: class-gf-user-registration.php:1725
+msgid "Forgot Password"
+msgstr "فراموشی کلمه عبور"
+
+#: class-gf-user-registration.php:1813
+#, php-format
+msgid "You are currently logged in as %s%s%s. %sLog out?%s"
+msgstr "شما در حال حاضر بعنوان %s%s%s وارد شده اید. %sخارج میشوید؟%s"
+
+#: class-gf-user-registration.php:1818 includes/class-gf-login-widget.php:195
+msgid "Logout"
+msgstr "خروج"
+
+#: class-gf-user-registration.php:1979
+msgid "Login Form"
+msgstr "فرم ورود"
+
+#: class-gf-user-registration.php:1983 includes/class-gf-login-widget.php:36
+#: includes/class-gf-login-widget.php:186
+msgid "Login"
+msgstr "ورود"
+
+#: class-gf-user-registration.php:1992 class-gf-user-registration.php:2427
+#: class-gf-user-registration.php:2435 includes/class-gf-field-username.php:75
+#: includes/class-gf-pending-activations-list.php:16
+msgid "Username"
+msgstr "نام کاربری"
+
+#: class-gf-user-registration.php:2000 class-gf-user-registration.php:2494
+#: class-gf-user-registration.php:2502
+msgid "Password"
+msgstr "رمز عبور"
+
+#: class-gf-user-registration.php:2009 class-gf-user-registration.php:2016
+msgid "Remember Me"
+msgstr "مرا به خاطر بسپار"
+
+#: class-gf-user-registration.php:2264
+msgid "User Registration Add-On v3.0"
+msgstr "افزودنی ثبت نام کاربران ۳٫۰"
+
+#: class-gf-user-registration.php:2265
+msgid ""
+"Thank you for updating! The new version of the Gravity Forms User "
+"Registration Add-On makes changes to how you manage your User Registration "
+"feeds."
+msgstr ""
+"بخاطر بروز رسانی متشکریم! نسخه جدید افزودنی ثبت نام دارای تغییراتی است که "
+"مدیریت فیدهای ثبت نام را به همراه دارد."
+
+#: class-gf-user-registration.php:2272
+msgid "Manage User Registration Contextually"
+msgstr "مدیریت ثبت نام کاربر به صورت محتوایی"
+
+#: class-gf-user-registration.php:2273
+msgid ""
+"User Registration Feeds are now accessed via the User Registration sub-menu "
+"within the Form Settings for the Form with which you would like to register "
+"a user."
+msgstr ""
+"فیدهای ثبت نام کاربر از این به بعد از طریق زیرمنوی تنظیمات فرم هایی که "
+"میخواهید فرم ثبت نام بسازید، در دسترس خواهد بود."
+
+#: class-gf-user-registration.php:2283
+msgid "I understand this change, dismiss this message!"
+msgstr "متوجه تغییرات شدم. این پیام رو ببند!"
+
+#: class-gf-user-registration.php:2284
+msgid "Please wait..."
+msgstr "لطفا صبر کنید..."
+
+#: class-gf-user-registration.php:2301
+msgid "Global Settings"
+msgstr "تنظیمات سراسری"
+
+#: class-gf-user-registration.php:2306 class-gf-user-registration.php:2312
+msgid "Custom Registration Page"
+msgstr "برگه ثبت نام سفارشی"
+
+#: class-gf-user-registration.php:2309
+msgid "Enable Custom Registration Page"
+msgstr "فعال سازی برگه ثبت نام سفارشی"
+
+#: class-gf-user-registration.php:2312
+msgid ""
+"When users attempt to access the default WordPress registration page, they "
+"will be redirected to this custom page instead."
+msgstr ""
+"وقتی کاربر سعی کند به صفحه ثبت نام پیشفرض وردپرس دسترسی پیدا کند، بجای آن به "
+"این صفحه دلخواه هدایت خواهد شد."
+
+#: class-gf-user-registration.php:2317
+msgid "Registration Page"
+msgstr "برگه ثبت نام"
+
+#: class-gf-user-registration.php:2319
+msgid "Select a Page"
+msgstr "یک برگه انتخاب کنید"
+
+#: class-gf-user-registration.php:2347
+msgid "Pages"
+msgstr "برگه ها"
+
+#: class-gf-user-registration.php:2364
+msgid "Other"
+msgstr "سایر"
+
+#: class-gf-user-registration.php:2367
+msgid "Custom URL"
+msgstr "لینک دلخواه"
+
+#: class-gf-user-registration.php:2389
+msgid "Feed Settings"
+msgstr "تنظیمات فید"
+
+#: class-gf-user-registration.php:2394 class-gf-user-registration.php:2398
+#: class-gf-user-registration.php:3171
+msgid "Name"
+msgstr "نام"
+
+#: class-gf-user-registration.php:2398
+msgid "Enter a feed name to uniquely identify this setup."
+msgstr "یک فید نام منحصر به فرد برای شناسایی این تنظیمات وارد کنید."
+
+#: class-gf-user-registration.php:2402 class-gf-user-registration.php:2407
+#: class-gf-user-registration.php:3172
+msgid "Action"
+msgstr "اعمال"
+
+#: class-gf-user-registration.php:2408
+msgid ""
+"Select the type of feed you would like to create. \"Create\" feeds will "
+"create a new user. \"Update\" feeds will update users."
+msgstr ""
+"نوع فید که می خواهید ایجاد کنید را انتخاب کنید. ایجاد فیدهایی که یک کاربر "
+"جدید ایجاد می کند. بروزرسانی فیدهایی که کاربران را بروزرسانی می کند."
+
+#: class-gf-user-registration.php:2409
+msgid ""
+"A form can have multiple \"Create\" feeds <strong>or</strong> a single "
+"\"Update\" feed. A form cannot have both a \"Create\" feed and an \"Update\" "
+"feed."
+msgstr ""
+"یک فرم میتوانید چندین فید \"ایجاد کاربر\" و <strong>یا</strong> یک فید "
+"\"بروز رسانی کاربر\" داشته باشد. یک فرم نمیتواند هم فید \"ایجاد کاربر\" و هم "
+"فید \"بروز رسانی\" داشته باشد."
+
+#: class-gf-user-registration.php:2418
+msgid "User Settings"
+msgstr "تنظیمات کاربر"
+
+#: class-gf-user-registration.php:2435
+msgid "Select the form field that should be used for the user's username."
+msgstr "فیلدی که برای نام کاربری کاربر باید استفاده شود را انتخاب کنید."
+
+#: class-gf-user-registration.php:2443 class-gf-user-registration.php:2449
+msgid "First Name"
+msgstr "نام"
+
+#: class-gf-user-registration.php:2449
+msgid "Select the form field that should be used for the user's first name."
+msgstr "فیلدی که برای نام کاربر باید استفاده شود را انتخاب کنید."
+
+#: class-gf-user-registration.php:2453 class-gf-user-registration.php:2459
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+#: class-gf-user-registration.php:2459
+msgid "Select the form field that should be used for the user's last name."
+msgstr "فیلدی که برای نام خانوادگی کاربر باید استفاده شود را انتخاب کنید."
+
+#: class-gf-user-registration.php:2463 class-gf-user-registration.php:2469
+msgid "Nickname"
+msgstr "لقب (Nickname)"
+
+#: class-gf-user-registration.php:2469
+msgid "Select the form field that should be used for the user's nickname."
+msgstr ""
+"یکی از فیلدهای فرم را که کاربر باید لقب خود را در آن وارد کند، انتخاب کنید."
+
+#: class-gf-user-registration.php:2473 class-gf-user-registration.php:2477
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#: class-gf-user-registration.php:2477
+msgid "Select how the user's name should be displayed publicly."
+msgstr "نحوه نمایش نام کاربر را انتخاب کنید."
+
+#: class-gf-user-registration.php:2481 class-gf-user-registration.php:2490
+msgid "Email Address"
+msgstr "آدرس ایمیل"
+
+#: class-gf-user-registration.php:2490
+msgid "Select the form field that should be used for the user's email address."
+msgstr "فیلدی که برای آدرس ایمیل کاربر باید استفاده شود را انتخاب کنید."
+
+#: class-gf-user-registration.php:2502
+msgid "Select the form field that should be used for the user's password."
+msgstr "فیلدی که برای رمز عبور کاربر باید استفاده شود را انتخاب کنید."
+
+#: class-gf-user-registration.php:2506 class-gf-user-registration.php:2511
+msgid "Role"
+msgstr "نقش"
+
+#: class-gf-user-registration.php:2511
+msgid "Select the role the user should be assigned."
+msgstr "نقش کاربری که به کاربر باید اختصاص داده شود را انتخاب کنید."
+
+#: class-gf-user-registration.php:2522
+msgid "User Meta"
+msgstr "متای کاربر"
+
+#: class-gf-user-registration.php:2542
+msgid "BuddyPress Profile"
+msgstr "نمایه بادی پرس"
+
+#: class-gf-user-registration.php:2565
+msgid "Network Options"
+msgstr "تنظیمات شبکه"
+
+#: class-gf-user-registration.php:2578
+msgid "Create new site when a user registers."
+msgstr "ایجاد سایت جدید وقتی که یک کاربر ثبت می شود."
+
+#: class-gf-user-registration.php:2586 class-gf-user-registration.php:2589
+msgid "Site Address"
+msgstr "آدرس سایت"
+
+#: class-gf-user-registration.php:2589
+msgid "Select the form field that should be used for the site address."
+msgstr "فیلدی که برای آدرس سایت باید استفاده شود را وارد کنید."
+
+#: class-gf-user-registration.php:2598 class-gf-user-registration.php:2601
+msgid "Site Title"
+msgstr "عنوان سایت"
+
+#: class-gf-user-registration.php:2601
+msgid "Select the form field that should be used for the site title."
+msgstr "فیلدی که برای عنوان سایت باید استفاده شود را وارد کنید."
+
+#: class-gf-user-registration.php:2611 class-gf-user-registration.php:2615
+msgid "Site Role"
+msgstr "نقش کاربری سایت"
+
+#: class-gf-user-registration.php:2615
+msgid "Select role the user should be assigned on the newly created site."
+msgstr ""
+"نقش کاربری که کاربر در سایت تازه ایجاد شده باید داشته باشد را انتخاب کنید."
+
+#: class-gf-user-registration.php:2624 class-gf-user-registration.php:2628
+msgid "Current Site Role"
+msgstr "نقش کاربری فعلی"
+
+#: class-gf-user-registration.php:2628
+msgid ""
+"Select role the user should be assigned on the site they registered from. "
+"This option overrides the \"Role\" option under User Settings."
+msgstr ""
+"نقش کاربری که باید کاربران در سایت ثبت شده خود داشته باشند را انتخاب کنید. "
+"این گزینه نقش کاربری را در گزینه زیر تنظیمات کاربر تغییر می دهد."
+
+#: class-gf-user-registration.php:2637 class-gf-user-registration.php:2647
+#: class-gf-user-registration.php:2663 class-gf-user-registration.php:2673
+msgid "Send Email?"
+msgstr "ارسال ایمیل ؟"
+
+#: class-gf-user-registration.php:2641
+msgid "Send the new site details to the user by email."
+msgstr "جزییات یک سایت جدید را از طریق ایمیل برای کاربر ارسال کن."
+
+#: class-gf-user-registration.php:2647
+#, php-format
+msgid ""
+"Specify whether to send the new site details to the user by email. %sEnabled "
+"by default.%s"
+msgstr ""
+"مشخص کنید که آیا جزییات سایت جدید از طریق ایمیل به کاربر ارسال شود؟ %sبه "
+"صورت پیشفرض فعال است.%s"
+
+#: class-gf-user-registration.php:2654
+msgid "Additional Options"
+msgstr "گزینه های اضافی"
+
+#: class-gf-user-registration.php:2667
+msgid "Have WordPress send this password to the new user by email."
+msgstr "آیا وردپرس این رمز را برای کاربر جدید با ایمیل ارسال کند."
+
+#: class-gf-user-registration.php:2673
+#, php-format
+msgid ""
+"Specify whether WordPress should send the password to the new user by email. "
+"%sEnabled by default.%s"
+msgstr ""
+"مشخص کنید که آیا وردپرس رمز را برای کاربر جدید از طریق ایمیل ارسال کند؟ %sبه "
+"صورت پیشفرض فعال است.%s"
+
+#: class-gf-user-registration.php:2681 class-gf-user-registration.php:2699
+msgid "User Activation"
+msgstr "فعال سازی کاربر"
+
+#: class-gf-user-registration.php:2684
+msgid "Enable user activation."
+msgstr "فعال سازی دستی کاربر"
+
+#: class-gf-user-registration.php:2689
+msgid "by email from WordPress"
+msgstr "به وسیله ایمیل از وردپرس"
+
+#: class-gf-user-registration.php:2693
+msgid "manually or by form notification"
+msgstr "دستی یا از طریق اعلان فرم"
+
+#: class-gf-user-registration.php:2697
+msgid "User Activation Type"
+msgstr "نوع فعال سازی کاربر"
+
+#: class-gf-user-registration.php:2697
+#, php-format
+msgid ""
+"%sBy Email:%s WordPress will send the user an email with an activation link."
+"%s%1$sManually:%2$s Activate each user manually from the Pending Activations "
+"page or send a form notification for the User Activation event with an "
+"activation link."
+msgstr ""
+"%sاز طریق ایمیل:%s وردپرس یک ایمیل حاوی لینک فعالسازی به کاربر ارسال میکند. "
+"%s%1$sدستی:%2$s فعالسازی هر کاربر به صورت دستی از طریق صفحه فعال سازی های در "
+"انتظار یا با ارسال یک اعلان فرم که رویداد آن روی فعالسازی کاربر ست میشود، "
+"انجام میشود."
+
+#: class-gf-user-registration.php:2699
+msgid ""
+"Send users an email with an activation link. Users are only registered once "
+"they have activated their accounts."
+msgstr ""
+"ارسال ایمیل به کاربران با یک لینک فعال سازی. کاربران فقط یک بار می توانند "
+"حساب کاربری خود را ثبت کنند."
+
+#: class-gf-user-registration.php:2707 class-gf-user-registration.php:2712
+msgid "Update Condition"
+msgstr "بروز رسانی شرط"
+
+#: class-gf-user-registration.php:2707 class-gf-user-registration.php:2713
+msgid "Registration Condition"
+msgstr "شرایط ثبت نام"
+
+#: class-gf-user-registration.php:2712
+msgid ""
+"When the update condition is enabled, form submissions will only update the "
+"user when the condition is met. The user data will always be populated into "
+"the form."
+msgstr ""
+"وقتی که شرط بروز رسانی فعال باشد، ارسال فرم ها فقط زمانی که شرط بروز رسانی "
+"برقرار باشد کاربر را بروز میکنند. اطلاعات کاربران همواره داخل فرم ها قرار "
+"میگیرند."
+
+#: class-gf-user-registration.php:2713
+msgid ""
+"When the registration condition is enabled, form submissions will only "
+"register the user when the condition is met."
+msgstr ""
+"وقتی که شرط ثبت نام کاربر فعال باشد، ارسال فرم ها فقط زمانی که شرط ثبت نام "
+"برقرار باشد کاربر را عضو سایت میکنند."
+
+#: class-gf-user-registration.php:2723 class-gf-user-registration.php:2733
+msgid "Set Post Author"
+msgstr "نویسنده پست تعیین شود"
+
+#: class-gf-user-registration.php:2727
+msgid "Set user as post author."
+msgstr "کاربر بعنوان نویسنده پست تعیین شود"
+
+#: class-gf-user-registration.php:2733
+#, php-format
+msgid ""
+"When a form submission creates a post and registers a user, set the new user "
+"as the post author. %sEnabled by default.%s"
+msgstr ""
+"وقتی از طریق فرم یک نوشته جدید ایجاد میشود و کاربر هم در سایت عضو میشود، "
+"کاربر را بعنوان نویسنده نوشته ثبت کند. %sبه صورت پیشفرض فعال است.%s"
+
+#: class-gf-user-registration.php:2799
+#, php-format
+msgid "Set as %s"
+msgstr "بعنوان %s تعیین شود"
+
+#: class-gf-user-registration.php:2809
+msgid "Deactivate site"
+msgstr "غیرفعالسازی سایت"
+
+#: class-gf-user-registration.php:2813
+msgid "Delete site"
+msgstr "حذف سایت"
+
+#: class-gf-user-registration.php:2835
+msgid "Standard User Meta"
+msgstr "متای کاربر استاندارد"
+
+#: class-gf-user-registration.php:2838
+msgid "Website"
+msgstr "وبسایت"
+
+#: class-gf-user-registration.php:2842
+msgid "AIM"
+msgstr "AIM"
+
+#: class-gf-user-registration.php:2846
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: class-gf-user-registration.php:2850
+msgid "Jabber / Google Talk"
+msgstr "Jabber / Google Talk"
+
+#: class-gf-user-registration.php:2854
+msgid "Biographical Information"
+msgstr "زندگینامه"
+
+#: class-gf-user-registration.php:2907
+msgid "Other User Meta"
+msgstr "سایر متاهای کاربر"
+
+#: class-gf-user-registration.php:2914
+msgid "Add Custom Meta"
+msgstr "یک متای دلخواه وارد کنید"
+
+#: class-gf-user-registration.php:2919
+msgid "Select Meta Key"
+msgstr "یک کلید متا انتخاب کنید"
+
+#: class-gf-user-registration.php:3013
+msgid "&mdash; Preserve current email &mdash;"
+msgstr "&mdash; ایمیل فعالی را حفظ کن &mdash;"
+
+#: class-gf-user-registration.php:3029
+msgid "&mdash; Preserve current password &mdash;"
+msgstr "&mdash; پسورد فعلی را حذف کن &mdash;"
+
+#: class-gf-user-registration.php:3034
+msgid "Auto Generate Password"
+msgstr "ایجاد خودکار رمزعبور"
+
+#: class-gf-user-registration.php:3046
+msgid "Create User"
+msgstr "ایجاد کاربر"
+
+#: class-gf-user-registration.php:3051
+msgid "Update User"
+msgstr "بروز رسانی کاربر"
+
+#: class-gf-user-registration.php:3117
+msgid "&mdash; Preserve current display name &mdash;"
+msgstr "&mdash; نام نمایشی فعلی را حفظ کن &mdash;"
+
+#: class-gf-user-registration.php:3136
+msgid "Select a Role"
+msgstr "یک نقش کاربری انتخاب کنید"
+
+#: class-gf-user-registration.php:3153
+msgid "&mdash; Preserve current role &mdash;"
+msgstr "حفظ نقش کاربری فعلی"
+
+#: class-gf-user-registration.php:3160
+msgid "&mdash; No role for this site &mdash;"
+msgstr "&mdash; هیچ نقشی برای این سایت نیست &mdash;"
+
+#: class-gf-user-registration.php:3243 class-gf-user-registration.php:3244
+msgid "User Registration Options"
+msgstr "گزینه های ثبت نام کاربر"
+
+#: class-gf-user-registration.php:3251
+msgid "Delay User Registration"
+msgstr "ایجادتاخیر در ثبت نام کاربر"
+
+#: class-gf-user-registration.php:3264
+msgid "Update User on Cancel"
+msgstr "بروز رسانی کاربر در وضعیت کنسلی"
+
+#: class-gf-user-registration.php:3267
+msgid "Update user when subscription is cancelled."
+msgstr "کاربر را زمانی که اشتراکش لغو شد بروزرسانی کن"
+
+#: class-gf-user-registration.php:3278
+msgid "Update Site on Cancel"
+msgstr "بروز رسانی سایت در وضعیت کنسلی"
+
+#: class-gf-user-registration.php:3281
+msgid "Update site when subscription is cancelled."
+msgstr "سایت را زمانی که اشتراکش لغو شد بروز رسانی کن"
+
+#: class-gf-user-registration.php:3814
+msgid "Site is created"
+msgstr "سایت ایجاد شد"
+
+#: class-gf-user-registration.php:3815
+msgid "User is pending activation"
+msgstr "کاربر در انتظار فعالسازی است."
+
+#: class-gf-user-registration.php:3816
+msgid "User is activated"
+msgstr "کاربر فعال است"
+
+#: class-gf-user-registration.php:3817
+msgid "User is registered"
+msgstr "کاربر ثبت نام است"
+
+#: class-gf-user-registration.php:3818
+msgid "User is updated"
+msgstr "کاربر بروز است"
+
+#: class-gf-user-registration.php:3861
+msgid "User Activation URL"
+msgstr "لینک فعالسازی کاربر"
+
+#: class-gf-user-registration.php:3864
+msgid "Set Password URL"
+msgstr "لینک کلمه عبور را تعیین کنید"
+
+#: includes/class-gf-login-widget.php:39
+msgid "Gravity Forms Login Widget"
+msgstr "ابزارک ورود گرویتی فرم"
+
+#: includes/class-gf-login-widget.php:205
+msgid "Forgot Password?"
+msgstr "فراموشی کلمه عبور؟"
+
+#: includes/class-gf-login-widget.php:225
+#: includes/class-gf-login-widget.php:283
+msgid "Title"
+msgstr "عنوان"
+
+#: includes/class-gf-login-widget.php:241
+msgid "Login Redirect URL"
+msgstr "لینک انتقال بعد ورود"
+
+#: includes/class-gf-login-widget.php:242
+msgid "Current Page"
+msgstr "برگه فعلی"
+
+#: includes/class-gf-login-widget.php:246
+#: includes/class-gf-login-widget.php:294
+msgid "Links"
+msgstr "لینک ها"
+
+#: includes/class-gf-login-widget.php:254
+#: includes/class-gf-login-widget.php:262
+#: includes/class-gf-login-widget.php:302
+#: includes/class-gf-login-widget.php:310
+msgid "Link Text"
+msgstr "متن لینک"
+
+#: includes/class-gf-login-widget.php:256
+#: includes/class-gf-login-widget.php:264
+#: includes/class-gf-login-widget.php:304
+#: includes/class-gf-login-widget.php:312
+msgid "Link URL"
+msgstr "URL لینک"
+
+#: includes/class-gf-login-widget.php:269
+#: includes/class-gf-login-widget.php:317
+msgid "Add Link"
+msgstr "افزودن لینک"
+
+#: includes/class-gf-login-widget.php:273
+msgid "Tab Index Start"
+msgstr "شروع شاخص Tab"
+
+#: includes/class-gf-login-widget.php:289
+msgid "Welcome Message"
+msgstr "پیام خوشآمد گویی"
+
+#: includes/class-gf-login-widget.php:321
+msgid "Logout Redirect URL"
+msgstr "لینک انتقال بعد از خروج"
+
+#: includes/class-gf-login-widget.php:328
+msgid "Show user avatar"
+msgstr "نمایش آواتار کاربر"
+
+#: includes/class-gf-pending-activations.php:100
+#: includes/class-gf-pending-activations.php:264
+#: includes/class-gf-pending-activations.php:265
+msgid "Pending Activations"
+msgstr "فعال سازی های در انتظار"
+
+#: includes/class-gf-pending-activations.php:235
+msgid "Item deleted."
+msgid_plural "Items deleted."
+msgstr[0] "آیتم حذف شد."
+msgstr[1] "آیتم ها حذف شدند."
+
+#: includes/class-gf-pending-activations.php:237
+msgid "There was an issue deleting this item."
+msgid_plural "There was an issue deleting one or more selected items."
+msgstr[0] "در حین حذف آیتم یک مشکل وجود دارد."
+msgstr[1] "در حین حذف آیتم ها یک مشکل وجود دارد."
+
+#: includes/class-gf-pending-activations.php:246
+msgid "There was an issue activating this item"
+msgid_plural "There was an issue activating one or more selected items"
+msgstr[0] "در حین فعالسازی آیتم یک مشکل وجود دارد."
+msgstr[1] "در حین فعالسازی آیتم ها یک مشکل وجود دارد."
+
+#: includes/class-gf-pending-activations.php:250
+msgid "User activated."
+msgid_plural "Users activated."
+msgstr[0] "کاربر فعال شد."
+msgstr[1] "کاربران فعال شدند."
+
+#: includes/class-gf-pending-activations.php:318
+msgid "User Registration"
+msgstr "ثبت نام کاربر"
+
+#: includes/class-gf-pending-activations.php:344
+msgid "Pending Activation"
+msgstr "فعالسازی های در انتظار"
+
+#: includes/class-gf-pending-activations.php:344
+msgid ""
+"This entry created a user who is pending activation. Click the \"Activate "
+"User\" button to activate the user."
+msgstr ""
+"این پیام ورودی یک کاربر را با فعالسازی در انتظار ایجاد کرد. برای فعالسازی وی "
+"بر روی دکمه \"فعالسازی کاربر\" کلیک کنید."
+
+#: includes/class-gf-pending-activations.php:351
+msgid "Are you sure you want to activate this user?"
+msgstr "آیا مطمئن هستید که می خواهید این کاربر را فعال کنید؟"
+
+#: includes/class-gf-pending-activations.php:371
+msgid "User Activated Successfully!"
+msgstr "کاربر با موفقیت فعال شد!"
+
+#: includes/class-gf-pending-activations-list.php:17
+msgid "Email"
+msgstr "ایمیل"
+
+#: includes/class-gf-pending-activations-list.php:84
+msgid "Activate this sign up"
+msgstr "فعالسازی این ثبت نام"
+
+#: includes/class-gf-pending-activations-list.php:84
+msgid "Activate this sign up? "
+msgstr "این ثبت نام فعال شود ؟"
+
+#: includes/class-gf-pending-activations-list.php:84
+msgid "\\'Cancel\\' to stop, \\'OK\\' to activate."
+msgstr "برای لغو Cancel و برای فعال سازی OK را انتخاب کنید."
+
+#: includes/class-gf-pending-activations-list.php:84
+#: includes/class-gf-pending-activations-list.php:109
+msgid "Activate"
+msgstr "فعال شد."
+
+#: includes/class-gf-pending-activations-list.php:87
+msgid "View the entry associated with this sign up"
+msgstr "مشاهده پیام ورودی متناظر با این ثبت نام"
+
+#: includes/class-gf-pending-activations-list.php:87
+msgid "View Entry"
+msgstr "مشاهده پیام ورودی"
+
+#: includes/class-gf-pending-activations-list.php:90
+msgid "Delete this sign up?"
+msgstr "حذف این ثبت نام؟"
+
+#: includes/class-gf-pending-activations-list.php:90
+msgid "Delete this sign up? "
+msgstr "این ثبت نام حذف شود ؟"
+
+#: includes/class-gf-pending-activations-list.php:90
+msgid "\\'Cancel\\' to stop, \\'OK\\' to delete."
+msgstr "برای لغو Cancel و برای حذف OK را انتخاب کنید."
+
+#: includes/class-gf-pending-activations-list.php:90
+#: includes/class-gf-pending-activations-list.php:110
+msgid "Delete"
+msgstr "حذف"
+
+#. Plugin Name of the plugin/theme
+msgid "Gravity Forms User Registration Add-On"
+msgstr "افزودنی ثبت نام گرویتی فرم"
+
+#. Description of the plugin/theme
+msgid ""
+"Allows WordPress users to be automatically created upon submitting a Gravity "
+"Form"
+msgstr ""
+"به کاربران وردپرس اجازه میدهد در حین ثبت یک فرم گرویتی، به عضویت در سایت نیز "
+"درآیند"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.gravityforms.com"
+msgstr "https://www.gravityforms.com"
+
+#. Author of the plugin/theme
+msgid "rocketgenius"
+msgstr "rocketgenius"
+
+#. Author URI of the plugin/theme
+msgid "https://www.rocketgenius.com"
+msgstr "https://www.rocketgenius.com"
