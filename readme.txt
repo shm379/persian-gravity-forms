@@ -1,3 +1,4 @@
+ترجمه جدید و حل برخی غلط ها در ترجمه
 ﻿=== گرویتی فرم فارسی ===
 Contributors: persianscript,mahdiy
 Tags: gravityforms,گرویتی فرم
